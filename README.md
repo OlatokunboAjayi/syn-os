@@ -162,7 +162,7 @@ syn-os/
 
 ### Start All Services
 ```bash
-git clone https://github.com/tokunboajayi/syn-os.git
+git clone https://github.com/OlatokunboAjayi/syn-os.git
 cd syn-os/infra/docker
 docker-compose up -d
 ```
